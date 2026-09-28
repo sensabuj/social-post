@@ -1,0 +1,7 @@
+post 1 : 
+subject: kota garh palace
+media: IMG_1318.JPG,IMG20260903121755.jpg,IMG20260903130421.jpg,IMG20260903130640.jpg
+
+post 2 : 
+subject: kota garh palace meseum
+media: IMG_1073,IMG_1074.JPG,IMG_1269.JPG,IMG_1363.JPG
