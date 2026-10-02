@@ -1,1 +1,1 @@
-convert post-timeline sheet as a csv file and add into github repo root and commit. read post-timeline.csv and create text files for each rows with this name format {0Serial}-Location.txt ad add text/rajasthan forder then add and commit
+convert post-timeline sheet as a csv file and add into github repo root and commit. read post-timeline.csv and create text files for each rows with this name format {0Serial}-Location.txt and add text/rajasthan forder then add and commit
