@@ -1,4 +1,0 @@
-Serial: 5
-Date: 03-Sep,(Thu) - Day 3
-Location: Kishor Sagar Lake, Kota
-Genre: Lake

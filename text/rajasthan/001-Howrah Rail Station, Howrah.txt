@@ -1,4 +1,0 @@
-Serial: 1
-Date: 01-Sep,(Tue) - Day 1
-Location: Howrah Rail Station, Howrah
-Genre: Station

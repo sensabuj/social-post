@@ -1,4 +1,0 @@
-Serial: 42
-Date: 09-Sep,(Wed) - Day 9
-Location: Taragarh Fort, Bundi
-Genre: Fort
