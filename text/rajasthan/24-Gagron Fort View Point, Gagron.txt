@@ -1,0 +1,41 @@
+Serial: 24
+Date: 06-Sep,(Sun) - Day 6
+Location: Gagron Fort View Point, Gagron
+Genre: View Point
+
+Matched PDF text (grouped by Excel row title):
+
+===== PDF 1 — destination introductions =====
+excel row valus: 21
+excel row title: Gagron Fort View Point, Gagron
+eye-catching title: Panoramic Perfection: The Best Viewpoint of Gagron Fort
+seo friendly has-tags: #GagronViewpoint #FortViews #RajasthanTourism #PhotographySpots
+#TravelGram
+<PARSED TEXT FOR PAGE: 7 / 13>
+description: Located opposite the historic fortress in Gagron, Rajasthan, this designated
+viewpoint offers spectacular panoramic perspectives of the water fort. Important attractions
+include wide-angle views of the fortress ramparts rising above the winding river confluence. It
+serves as an ideal photography location to capture the unique topography and defensive
+isolation of the UNESCO-listed fort.
+
+===== PDF 2 — destination stories =====
+Excel row values: Serial 21 | Date: 06-Sep, (Day 6) | Location: Gagron Fort View Point, Gagron | Geo-Location: 24.650000,
+76.160000
+Excel row title: Gagron Fort View Point, Gagron
+Eye-catching title: The Gagron Panorama: Fort, Rivers and Hills
+SEO-friendly hashtags: #GagronViewpoint #GagronFort #RajasthanViews #HeritageLandscape
+Description: The viewpoint overlooking Gagron Fort reveals the dramatic geography that made the stronghold
+distinctive: fort walls rising above the meeting of waterways, with hills and open countryside beyond. It is an ideal
+place to appreciate the relationship between architecture and terrain.
+
+===== PDF 3 — place introductions =====
+excel row values: 21 | 06-Sep, (Day 6) | Gagron Fort View Point, Gagron | 24.650000, 76.160000
+excel row title: Gagron Fort View Point, Gagron
+eye-catching title: Gagron View Point: The Fort in Full Frame
+seo friendly has-tags: #GagronViewPoint #FortPhotography #KaliSindhRiver #HadotiViews
+#RajasthanTravel #ScenicIndia
+description: The Gagron Fort View Point is an overlook that shows the fort in the context of its setting.
+From here you can see the sweep of the Kali Sindh and Ahu rivers, the thick walls of the fort and the green
+hills around it. The viewpoint offers the best vantage on the fort's defensive geography, which made it so
+hard to capture.
+

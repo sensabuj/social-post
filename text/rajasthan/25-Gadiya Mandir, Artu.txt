@@ -1,0 +1,39 @@
+Serial: 25
+Date: 06-Sep,(Sun) - Day 6
+Location: Gadiya Mandir, Artu
+Genre: Architectural
+
+Matched PDF text (grouped by Excel row title):
+
+===== PDF 1 — destination introductions =====
+excel row valus: 22
+excel row title: Gadiya Mandir, Artu
+eye-catching title: Sacred Heights: Discovering Gadiya Mandir in Artu
+seo friendly has-tags: #GadiyaMandir #Artu #BaranTourism #SpiritualPlaces
+#RajasthanTemples
+description: Situated near Artu in the Baran district of Rajasthan, Gadiya Mandir is an elevated
+religious site holding local spiritual significance. Important attractions include hilltop shrines
+offering sweeping views of the surrounding rural landscape and pastoral plains. The architecture
+features modest regional temple building traditions integrated seamlessly with natural elevation
+points.
+
+===== PDF 2 — destination stories =====
+Excel row values: Serial 22 | Date: 06-Sep, (Day 6) | Location: Gadiya Mandir, Artu | Geo-Location: 25.000000, 76.060000
+Excel row title: Gadiya Mandir, Artu
+Eye-catching title: Gadiya Mandir: A Quiet Shrine in Artu
+SEO-friendly hashtags: #GadiyaMandir #Artu #RajasthanTemples #CulturalTravel
+Description: Gadiya Mandir in Artu is part of the small-town sacred landscape of southeastern Rajasthan. Its local
+worship traditions and modest temple setting offer a more intimate perspective on the region’s heritage beyond its
+celebrated forts and major monuments.
+
+===== PDF 3 — place introductions =====
+excel row values: 22 | 06-Sep, (Day 6) | Gadiya Mandir, Artu | 25.000000, 76.060000
+excel row title: Gadiya Mandir, Artu
+eye-catching title: Gadiya Mandir, Atru: Parmara-Era Stone Artistry
+seo friendly has-tags: #GadiyaMandir #AtruTemples #BaranHeritage #HadotiTemples #MedievalTemples
+#HiddenRajasthan
+description: Gadiya Mandir is part of the temple remains at Atru (Artu), in Baran district, southeastern
+Rajasthan. Atru is known for its medieval temple ruins, attributed to roughly the 9th to 11th centuries, built
+in Nagara style. The surviving structures show carved door frames, pillars, sculpted figures and decorative
+bands, with the broken spires and scattered stones adding a haunting, open-air museum feel.
+

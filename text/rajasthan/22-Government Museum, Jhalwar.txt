@@ -1,0 +1,40 @@
+Serial: 22
+Date: 06-Sep,(Sun) - Day 6
+Location: Government Museum, Jhalwar
+Genre: Museum
+
+Matched PDF text (grouped by Excel row title):
+
+===== PDF 1 — destination introductions =====
+excel row valus: 19
+excel row title: Government Museum, Jhalwar
+eye-catching title: Relics of Royalty: Exploring the Government Museum of Jhalawar
+seo friendly has-tags: #JhalawarMuseum #RajasthanMuseums #HistoryLovers
+#CulturalHeritage #ArtAndArtifacts
+description: Located in the heart of Jhalawar town, Rajasthan, the Government Museum is
+housed within a historic building reflecting local princely architecture. Important attractions
+include a rich repository of rare stone sculptures, weapons, royal garments, and ancient coins
+discovered from nearby historical sites like Gagron and Kakuni. The museum offers deep
+cultural insights into the princely state of Jhalawar.
+
+===== PDF 2 — destination stories =====
+Excel row values: Serial 19 | Date: 06-Sep, (Day 6) | Location: Government Museum, Jhalwar | Geo-Location: 24.600000,
+76.170000
+Excel row title: Government Museum, Jhalwar
+Eye-catching title: Jhalawar Government Museum: Stories of the Hadoti Frontier
+SEO-friendly hashtags: #JhalawarMuseum #Hadoti #RajasthanHistory #MuseumTrail
+Description: Jhalawar Government Museum documents the history and artistic heritage of the former Jhalawar
+state and the wider Hadoti region. Its displays of sculpture, inscriptions, arms and local artefacts help connect the
+area’s forts and temples with the people who shaped them.
+
+===== PDF 3 — place introductions =====
+excel row values: 19 | 06-Sep, (Day 6) | Government Museum, Jhalwar | 24.600000, 76.170000
+excel row title: Government Museum, Jhalwar
+eye-catching title: Jhalawar Museum: Sculpture and Manuscripts in a Royal Setting
+seo friendly has-tags: #JhalawarMuseum #GovernmentMuseumJhalawar #HadotiHistory
+#AncientSculpture #RajasthanMuseum #MuseumTrail
+description: The Government Museum in Jhalawar is one of Rajasthan's older museums, set up in the
+early 20th century under the Jhalawar rulers. Its galleries hold stone sculptures from Hadoti temples,
+Gupta- and medieval-period images, inscriptions, coins, manuscripts, weapons and paintings. The building
+has a characteristic stately colonial-era look, with arched corridors and large halls.
+

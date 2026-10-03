@@ -1,0 +1,39 @@
+Serial: 39
+Date: 09-Sep,(Wed) - Day 9
+Location: Raniji ki Baori, Bundi
+Genre: Architectural
+
+Matched PDF text (grouped by Excel row title):
+
+===== PDF 1 — destination introductions =====
+excel row valus: 36
+excel row title: Raniji ki Baori, Bundi
+eye-catching title: Queen of Stepwells: The Architectural Masterpiece of Raniji ki Baori
+seo friendly has-tags: #RanijiKiBaori #BundiStepwells #StepwellArchitecture #RoyalBundi
+#IncredibleIndia
+description: Built in 1699 by Rani Nathavat Ji in Bundi, Rajasthan, Raniji ki Baori (Queen's
+Stepwell) is one of the most ornate stepwells in India. Important attractions include a
+multi-storied structure featuring high-arched gateways, beautifully carved pillars, and intricate
+relief sculptures of Hindu deities. The architecture is a stellar example of Rajput stepwell design,
+combining utilitarian water harvesting with palatial aesthetic grandeur.
+
+===== PDF 2 — destination stories =====
+Excel row values: Serial 36 | Date: 09-Sep, (Day 9) | Location: Raniji ki Baori, Bundi | Geo-Location: 25.440000, 75.640000
+Excel row title: Raniji ki Baori, Bundi
+Eye-catching title: Raniji ki Baori: Bundi’s Queenly Stepwell
+SEO-friendly hashtags: #RanijiKiBaori #Bundi #StepwellArchitecture #RajasthanHeritage
+Description: Raniji ki Baori, commissioned in the late seventeenth century, is among Bundi’s most celebrated
+stepwells. Its multi-storeyed structure, ornate pillars, carved brackets and elegant arched entrance turn a practical
+water source into a masterpiece of Rajput-era architecture.
+
+===== PDF 3 — place introductions =====
+excel row values: 36 | 09-Sep, (Day 9) | Raniji ki Baori, Bundi | 25.440000, 75.640000
+excel row title: Raniji ki Baori, Bundi
+eye-catching title: Raniji ki Baori: The Queen's Stepwell of a Hundred Carvings
+seo friendly has-tags: #RanijiKiBaori #BundiStepwell #QueensStepwell #StepwellsOfIndia #BundiHeritage
+#RajasthanArchitecture
+description: Raniji ki Baori is one of Bundi's most celebrated stepwells, built in 1699 by Rani Nathavatiji,
+the queen of Rao Raja Anirudh Singh. The deep stepwell, around 46 metres deep, has an ornate arched
+gateway, elephant sculptures and finely carved pillars and niches, including images of Vishnu's avatars. It
+is a showpiece of Rajput stepwell design.
+

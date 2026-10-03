@@ -1,0 +1,38 @@
+Serial: 26
+Date: 06-Sep,(Sun) - Day 6
+Location: Temple Ruin, Artu
+Genre: Architectural
+
+Matched PDF text (grouped by Excel row title):
+
+===== PDF 1 — destination introductions =====
+excel row valus: 23
+excel row title: Temple Ruin, Artu
+eye-catching title: Echoes in Stone: The Ancient Temple Ruins of Artu
+seo friendly has-tags: #TempleRuins #ArtuBaran #Archaeology #HistoricalSites #LostHeritage
+description: Located in Artu, Rajasthan, these ancient temple ruins offer a fascinating glimpse
+into the region's medieval past. Important attractions include scattered architectural fragments,
+broken carved pillars, and weathered plinths bearing remnants of classical stone artistry. The
+site reflects the historical evolution and eventual decay of early medieval temple building in
+eastern Rajasthan.
+
+===== PDF 2 — destination stories =====
+Excel row values: Serial 23 | Date: 06-Sep, (Day 6) | Location: Temple Ruin, Artu | Geo-Location: 25.000000, 76.060000
+Excel row title: Temple Ruin, Artu
+Eye-catching title: Artu’s Temple Ruins: Fragments of a Sacred Past
+SEO-friendly hashtags: #Artu #TempleRuins #HiddenRajasthan #HeritageExploration
+Description: The temple ruins at Artu preserve traces of an earlier architectural and devotional landscape.
+Weathered stone and surviving structural fragments encourage a closer look at the craftsmanship and settlement
+history embedded in Rajasthan’s lesser-known heritage sites.
+
+===== PDF 3 — place introductions =====
+excel row values: 23 | 06-Sep, (Day 6) | Temple Ruin, Artu | 25.000000, 76.060000
+excel row title: Temple Ruin, Artu
+eye-catching title: Atru's Temple Ruins: Where Time Turned Stone to Poetry
+seo friendly has-tags: #TempleRuins #AtruRuins #AncientArchitecture #BaranTourism
+#ArchaeologicalSite #RajasthanOffbeat
+description: The Temple Ruin at Atru (Artu) is a scattering of medieval stone structures that once formed a
+larger temple complex in Baran district, Rajasthan. The ruins display finely carved pillars, doorways and
+sculpted blocks in the Nagara style. Though partly collapsed, the site is of great interest to historians and
+photographers, and the open setting gives it a haunting, timeless quality.
+

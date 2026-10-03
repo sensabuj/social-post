@@ -1,0 +1,38 @@
+Serial: 42
+Date: 09-Sep,(Wed) - Day 9
+Location: Taragarh Fort, Bundi
+Genre: Fort
+
+Matched PDF text (grouped by Excel row title):
+
+===== PDF 1 — destination introductions =====
+excel row valus: 39
+excel row title: Taragarh Fort, Bundi
+eye-catching title: Star of the Hills: The Formidable Taragarh Fort of Bundi
+seo friendly has-tags: #TaragarhFort #BundiFort #HilltopFortress #RajputHistory
+#FortsOfRajasthan
+description: Perched dramatically on a steep hillside above Bundi, Rajasthan, Taragarh Fort was
+built in 1354 AD as a formidable military stronghold. Important attractions include massive stone
+ramparts, ancient water reservoirs (kunds), huge gateways (Elephant gates), and panoramic
+views over Bundi town. The architecture exemplifies rugged medieval hill fort construction
+designed for impregnable defense.
+
+===== PDF 2 — destination stories =====
+Excel row values: Serial 39 | Date: 09-Sep, (Day 9) | Location: Taragarh Fort, Bundi | Geo-Location: 25.450000, 75.630000
+Excel row title: Taragarh Fort, Bundi
+Eye-catching title: Taragarh Fort: The Guardian of Bundi
+SEO-friendly hashtags: #TaragarhFort #Bundi #RajasthanForts #HadotiHeritage
+Description: Taragarh Fort rises above Bundi’s old town, its massive walls and gateways following the contours of
+the hill. The fort’s reservoirs, bastions and panoramic views speak to the strategic importance of the former Bundi
+kingdom and frame the town’s blue-painted houses and historic lanes.
+
+===== PDF 3 — place introductions =====
+excel row values: 39 | 09-Sep, (Day 9) | Taragarh Fort, Bundi | 25.450000, 75.630000
+excel row title: Taragarh Fort, Bundi
+eye-catching title: Taragarh Fort: Bundi's Star Fortress Above the Clouds
+seo friendly has-tags: #TaragarhFort #BundiFort #StarFort #BundiPalace #RajasthanForts #HadotiHistory
+description: Taragarh Fort, the 'Star Fort', crowns a steep hill above Bundi, Rajasthan. Founded in the 14th
+century, it is among the largest hill forts in the region. Massive ramparts, towering gateways, large cisterns
+and the famous Bhim Burj bastion mark its defences, while the palace below, with its paintings and carved
+balconies, completes Bundi's royal skyline.
+

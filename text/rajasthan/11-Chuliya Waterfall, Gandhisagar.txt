@@ -1,0 +1,42 @@
+Serial: 11
+Date: 04-Sep,(Fri) - Day 4
+Location: Chuliya Waterfall, Gandhisagar
+Genre: Waterfall
+
+Matched PDF text (grouped by Excel row title):
+
+===== PDF 1 — destination introductions =====
+excel row valus: 8
+excel row title: Chuliya Waterfall, Gandhisagar
+eye-catching title: Roaring Waters: Witnessing the Grandeur of Chuliya Waterfall
+seo friendly has-tags: #ChuliyaWaterfall #Gandhisagar #ChambalCanyon #WaterfallsOfIndia
+#ExploreRajasthan
+description: Situated downstream from the Gandhisagar Dam along the Chambal River on the
+border region near Madhya Pradesh and Rajasthan, Chuliya Waterfall is a dramatic natural
+<PARSED TEXT FOR PAGE: 4 / 13>
+spectacle. Important attractions include deep gorge formations, roaring multi-tiered plunges, and
+untouched river canyon scenery. The landscape highlights nature's raw geological power,
+featuring smooth rock formations carved by centuries of rushing water.
+
+===== PDF 2 — destination stories =====
+Excel row values: Serial 8 | Date: 04-Sep, (Day 4) | Location: Chuliya Waterfall, Gandhisagar | Geo-Location: 24.840000,
+74.950000
+Excel row title: Chuliya Waterfall, Gandhisagar
+Eye-catching title: Chuliya Falls: The Chambal’s Rocky Cascade
+SEO-friendly hashtags: #ChuliyaWaterfall #GandhiSagar #ChambalRiver #NatureTrail
+Description: Chuliya Waterfall, in the Gandhi Sagar region, is a striking natural feature where the Chambal moves
+through a rugged rocky channel. The falls and sculpted stone formations are especially evocative during the
+monsoon and post-monsoon season.
+
+===== PDF 3 — place introductions =====
+excel row values: 8 | 04-Sep, (Day 4) | Chuliya Waterfall, Gandhisagar | 24.840000, 74.950000
+excel row title: Chuliya Waterfall, Gandhisagar
+eye-catching title: Chuliya Falls: Chambal's Thundering Curtain of Water
+seo friendly has-tags: #ChuliyaWaterfall #ChuliaFalls #MonsoonWaterfalls #ChambalValley
+#GandhisagarTravel #NatureEscape
+description: Chuliya Waterfall is a seasonal cascade in the Chambal valley, in the Gandhisagar side of the
+itinerary. A small river drops over a rocky ledge into a gorge of dark stone, and the best months are during
+and just after the monsoon, when the flow is full. There is no grand architecture here, just a dramatic
+natural amphitheatre of rock, spray and green, which makes it a popular spot for photographers and
+families.
+

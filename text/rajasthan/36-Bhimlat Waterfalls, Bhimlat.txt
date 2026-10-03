@@ -1,0 +1,40 @@
+Serial: 36
+Date: 08-Sep,(Tue) - Day 8
+Location: Bhimlat Waterfalls, Bhimlat
+Genre: Waterfall
+
+Matched PDF text (grouped by Excel row title):
+
+===== PDF 1 — destination introductions =====
+excel row valus: 33
+excel row title: Bhimlat Waterfalls, Bhimlat
+eye-catching title: Oasis in the Hills: The Splendid Bhimlat Waterfalls
+seo friendly has-tags: #BhimlatWaterfalls #BundiWaterfalls #NaturalOasis #RajasthanNature
+#TravelGram
+description: Situated near Bhimlat in Bundi district, Rajasthan, the Bhimlat Waterfalls is a
+stunning natural cascade plunging from a height of approximately 150 feet into a rocky gorge.
+Important attractions include roaring water drops during the monsoon season, lush surrounding
+greenery, and plunge pools. According to legend, the waterfall was created by Bhima from the
+Mahabharata epic.
+
+===== PDF 2 — destination stories =====
+Excel row values: Serial 33 | Date: 08-Sep, (Day 8) | Location: Bhimlat Waterfalls, Bhimlat | Geo-Location: 25.100000,
+75.650000
+Excel row title: Bhimlat Waterfalls, Bhimlat
+Eye-catching title: Bhimlat Falls: A Green Gorge and Plunging Cascade
+SEO-friendly hashtags: #BhimlatWaterfall #Bundi #RajasthanNature #Waterfall
+Description: Bhimlat Waterfall is one of the region’s memorable natural attractions, dropping into a deep gorge
+amid rocky cliffs and seasonal greenery. The waterfall’s scale and setting make it a striking stop on a journey
+through southeastern Rajasthan.
+
+===== PDF 3 — place introductions =====
+excel row values: 33 | 08-Sep, (Day 8) | Bhimlat Waterfalls, Bhimlat | 25.100000, 75.650000
+excel row title: Bhimlat Waterfalls, Bhimlat
+eye-catching title: Bhimlat Waterfall: Bundi's Monsoon Showpiece
+seo friendly has-tags: #BhimlatWaterfall #BundiWaterfalls #MahadevTemple #MonsoonRajasthan
+#NatureTrail #BundiTravel
+description: Bhimlat Waterfall is a scenic cascade in the Bundi district, Rajasthan, set within a rocky gorge
+with a Shiva shrine nearby. Local legend links the area with Bhima of the Mahabharata, which gives the
+place its name. After the monsoon the stream plunges down layered rock into pools, and the natural
+setting is lush, loud and refreshing.
+

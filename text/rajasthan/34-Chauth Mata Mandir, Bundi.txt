@@ -1,0 +1,40 @@
+Serial: 34
+Date: 08-Sep,(Tue) - Day 8
+Location: Chauth Mata Mandir, Bundi
+Genre: Hindu Temple
+
+Matched PDF text (grouped by Excel row title):
+
+===== PDF 1 — destination introductions =====
+excel row valus: 31
+excel row title: Chauth Mata Mandir, Bundi
+eye-catching title: Shrine in the Clouds: Chauth Mata Mandir in Bundi
+seo friendly has-tags: #ChauthMataMandir #BundiTemples #HilltopShrine #SpiritualJourney
+#BundiTourism
+description: Perched high on the hills overlooking the historic town of Bundi, Rajasthan, Chauth
+Mata Mandir is a revered temple offering divine solace and vistas. Important attractions include
+sacred sanctums and sweeping bird's-eye views of Bundi's palaces, lakes, and blue houses.
+The architecture features traditional regional temple styling built to withstand rugged hilltop
+conditions.
+
+===== PDF 2 — destination stories =====
+Excel row values: Serial 31 | Date: 08-Sep, (Day 8) | Location: Chauth Mata Mandir, Bundi | Geo-Location: 25.430000,
+75.640000
+Excel row title: Chauth Mata Mandir, Bundi
+Eye-catching title: Chauth Mata Mandir: A Hilltop Place of Faith
+SEO-friendly hashtags: #ChauthMataMandir #Bundi #RajasthanTemples #Pilgrimage
+Description: Chauth Mata Mandir near Bundi is a devotional destination set within the region’s rugged landscape.
+The temple’s pilgrimage character and elevated surroundings offer a quieter complement to Bundi’s celebrated
+palaces, stepwells and painted havelis.
+
+===== PDF 3 — place introductions =====
+excel row values: 31 | 08-Sep, (Day 8) | Chauth Mata Mandir, Bundi | 25.430000, 75.640000
+excel row title: Chauth Mata Mandir, Bundi
+eye-catching title: Chauth Mata Mandir, Bundi: A Devotional Pause on the Road
+seo friendly has-tags: #ChauthMata #BundiTemple #HadotiFaith #RajasthanTemples #BundiTravel
+#SacredStops
+description: Chauth Mata Mandir is a goddess temple in the Bundi region of Rajasthan, a state famed for
+its Chauth Mata shrines. The temple is a place of local devotion, with a simple sanctum, a mandapa and a
+courtyard. Bundi itself was founded by Hada Chauhans in the 13th century and is known for stepwells,
+painted palaces and hill forts.
+

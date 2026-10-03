@@ -1,0 +1,38 @@
+Serial: 33
+Date: 08-Sep,(Tue) - Day 8
+Location: Ramghar Fort, Ramgarh
+Genre: Fort
+
+Matched PDF text (grouped by Excel row title):
+
+===== PDF 1 — destination introductions =====
+excel row valus: 30
+excel row title: Ramghar Fort, Ramgarh
+<PARSED TEXT FOR PAGE: 9 / 13>
+eye-catching title: Guardian of the Hills: The Historic Ramghar Fort
+seo friendly has-tags: #RamgharFort #BaranForts #RajputHeritage #Fortress #RajasthanHistory
+description: Perched on the elevated terrain of Ramgarh in Rajasthan, this historic fort served
+as a defensive outpost for local rulers. Important attractions include stone ramparts, strategic
+watchtowers, and commanding views over the crater and surrounding plains. The architecture
+displays robust Rajput defensive fortification techniques adapted to hilly terrain.
+
+===== PDF 2 — destination stories =====
+Excel row values: Serial 30 | Date: 08-Sep, (Day 8) | Location: Ramghar Fort, Ramgarh | Geo-Location: 25.080000, 76.480000
+Excel row title: Ramghar Fort, Ramgarh
+Eye-catching title: Ramgarh Fort: Ruins Above the Forested Hills
+SEO-friendly hashtags: #RamgarhFort #Baran #RajasthanForts #HiddenRajasthan
+Description: The remains of Ramgarh Fort overlook the surrounding landscape and recall the region’s historic
+need for fortified hill positions. Though time has softened its walls, the site retains an evocative atmosphere and
+offers broad views across the countryside.
+
+===== PDF 3 — place introductions =====
+excel row values: 30 | 08-Sep, (Day 8) | Ramghar Fort, Ramgarh | 25.080000, 76.480000
+excel row title: Ramghar Fort, Ramgarh
+eye-catching title: Ramgarh Fort: A Sentinel Above the Hadoti Plains
+seo friendly has-tags: #RamgarhFort #BaranForts #HadotiFortress #RajasthanHeritage #FortRuins
+#HistoryTrail
+description: Ramgarh Fort is a historic fortification at Ramgarh in Baran district, Rajasthan, standing on
+high ground. Its remains include stone ramparts, gateways and weathered bastions, which once guarded
+the surrounding region. The fort is modest compared with the great forts of Rajasthan, but it gives wide
+views of the countryside and a feel of local history.
+

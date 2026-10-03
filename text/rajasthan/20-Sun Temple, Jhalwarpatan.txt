@@ -1,0 +1,41 @@
+Serial: 20
+Date: 06-Sep,(Sun) - Day 6
+Location: Sun Temple, Jhalwarpatan
+Genre: Architectural
+
+Matched PDF text (grouped by Excel row title):
+
+===== PDF 1 — destination introductions =====
+excel row valus: 17
+excel row title: Sun Temple, Jhalwarpatan
+<PARSED TEXT FOR PAGE: 6 / 13>
+eye-catching title: Glory to the Sun God: The Architectural Gem of Jhalrapatan Sun Temple
+seo friendly has-tags: #SunTempleJhalrapatan #Jhalawar #NagaraArchitecture
+#AncientTemples #RajasthanTourism
+description: Located in Jhalrapatan, Rajasthan, the historic Sun Temple (locally known as
+Padmanabh Temple) dates back to the 10th century. Important attractions include exquisitely
+carved exterior walls depicting celestial beings, warriors, and deities, crowned by a magnificent
+towering shikhara. The architecture is a masterpiece of late Pratihara Nagara style, celebrated
+for its detailed sculptural richness.
+
+===== PDF 2 — destination stories =====
+Excel row values: Serial 17 | Date: 06-Sep, (Day 6) | Location: Sun Temple, Jhalwarpatan | Geo-Location: 24.540000,
+76.170000
+Excel row title: Sun Temple, Jhalwarpatan
+Eye-catching title: Jhalrapatan’s Sun Temple: The City of Bells
+SEO-friendly hashtags: #SunTemple #Jhalrapatan #RajasthanHeritage #TempleArchitecture
+Description: The Sun Temple at Jhalrapatan is a celebrated medieval shrine whose richly carved exterior and
+soaring shikhara make it a landmark of Rajasthan’s temple architecture. Jhalrapatan itself is often associated with
+its many temples and historic streets, giving the monument a setting steeped in living tradition.
+
+===== PDF 3 — place introductions =====
+excel row values: 17 | 06-Sep, (Day 6) | Sun Temple, Jhalwarpatan | 24.540000, 76.170000
+excel row title: Sun Temple, Jhalwarpatan
+eye-catching title: Padmanabha Sun Temple: Jhalrapatan's Radiant Jewel
+seo friendly has-tags: #SunTempleJhalrapatan #SuryaMandir #PadmanabhaTemple #JhalawarTourism
+#NagaraArchitecture #RajasthanHeritage
+description: The Sun Temple (Surya or Padmanabha Temple) stands in the middle of Jhalrapatan, the old
+'city of bells' in Jhalawar district, Rajasthan. Built around the 10th century in the Nagara style, it has a tall,
+finely carved shikhara, ornate pillars and sculpted panels of deities, apsaras and celestial figures. The
+grace of its carving has often drawn comparison with the temples of central India.
+

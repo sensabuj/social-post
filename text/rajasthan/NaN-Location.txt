@@ -1,0 +1,6 @@
+Serial: NaN
+Date: Date
+Location: Location
+Genre: Genre
+
+No matching Excel row title was found in the supplied PDFs. This itinerary row is retained as-is.

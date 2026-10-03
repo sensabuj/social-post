@@ -1,0 +1,40 @@
+Serial: 40
+Date: 09-Sep,(Wed) - Day 9
+Location: 84 Pillared Cenotaph, Bundi
+Genre: Architectural
+
+Matched PDF text (grouped by Excel row title):
+
+===== PDF 1 — destination introductions =====
+excel row valus: 37
+excel row title: 84 Pillared Cenotaph, Bundi
+eye-catching title: Pillars of Elegance: The 84 Pillared Cenotaph in Bundi
+seo friendly has-tags: #ChaurasiKhambonKiChhatri #BundiCenotaph #RajputArchitecture
+#HistoricalMonuments #BundiDiaries
+description: Constructed in 1683 by Rao Anirudh Singh in Bundi, Rajasthan, the Chaurasi
+Khambon ki Chhatri is a magnificent two-story cenotaph supported by exactly 84 intricately
+carved pillars. Important attractions include a grand central shiva lingam, ceiling frescoes, and
+elaborate animal and floral motifs carved into grey stone. The architecture represents classic
+17th-century Bundi school stonework and structural symmetry.
+
+===== PDF 2 — destination stories =====
+Excel row values: Serial 37 | Date: 09-Sep, (Day 9) | Location: 84 Pillared Cenotaph, Bundi | Geo-Location: 25.400000,
+75.570000
+Excel row title: 84 Pillared Cenotaph, Bundi
+Eye-catching title: Chaurasi Khambon ki Chhatri: The Elegance of 84 Pillars
+SEO-friendly hashtags: #84PillaredCenotaph #Bundi #Chhatri #RajputArchitecture
+Description: Bundi’s 84-pillared cenotaph is a striking memorial pavilion supported by rows of carved columns.
+Built as a commemorative structure, it combines open-air architecture, sculptural ornament and a sense of
+ceremonial grace that makes it one of the town’s signature monuments.
+
+===== PDF 3 — place introductions =====
+excel row values: 37 | 09-Sep, (Day 9) | 84 Pillared Cenotaph, Bundi | 25.400000, 75.570000
+excel row title: 84 Pillared Cenotaph, Bundi
+eye-catching title: Chaurasi Khambon ki Chhatri: Eighty-Four Pillars of Devotion
+seo friendly has-tags: #84PillaredCenotaph #ChaurasiKhambon #BundiChhatri #RajputArchitecture
+#BundiTourism #HeritageMonument
+description: The 84 Pillared Cenotaph (Chaurasi Khambon ki Chhatri) stands near Bundi, Rajasthan. It
+was built in the 17th century by Rao Raja Anirudh Singh in memory of his foster brother Deva. The
+monument is an open, pillared pavilion of 84 columns, crowned with a central dome and decorated with
+carved elephants, apsaras and floral motifs, set beside a quiet lake.
+

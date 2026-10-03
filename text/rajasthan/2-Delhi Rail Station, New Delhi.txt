@@ -1,0 +1,6 @@
+Serial: 2
+Date: 02-Sep,(Wed) - Day 2
+Location: Delhi Rail Station, New Delhi
+Genre: Station
+
+No matching Excel row title was found in the supplied PDFs. This itinerary row is retained as-is.
