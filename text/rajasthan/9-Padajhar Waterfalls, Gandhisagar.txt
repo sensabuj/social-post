@@ -1,0 +1,4 @@
+Serial: 9
+Date: 04-Sep, (Day 4)
+Location: Padajhar Waterfalls, Gandhisagar
+Geo-Location: 24.920000, 75.080000
