@@ -1,0 +1,24 @@
+Excel Row
+Serial: 2
+Date: 03-Sep, (Day 3)
+Location: Kishor Sagar Lake, Kota
+Geo-Location: 25.160000, 75.840000
+
+SOURCE 1
+Excel row title: Kishor Sagar Lake, Kota
+Eye-catching title: Kishor Sagar: Kota’s Historic Lakefront
+SEO-friendly hashtags: #KishorSagar #Jagmandir #Kota #RajasthanHeritage
+Description: Kishor Sagar is an historic artificial lake in the heart of Kota, traditionally associated with the city’s former rulers. Its calm waters, waterfront pathways and the picturesque Jagmandir palace pavilion make it one of the city’s most recognisable heritage landscapes.
+
+SOURCE 2
+Excel row title: Kishor Sagar Lake, Kota
+Eye-catching title: Kishor Sagar: The Lake Palace Kota Keeps Floating
+SEO-friendly hashtags: #KishorSagarLake #KotaLake #JagMandir #HadotiHeritage #LakePalace #RajasthanTravel
+Description: Kishor Sagar Lake lies in the heart of old Kota, close to Garh Palace. The artificial lake is traditionally credited to the Bundi chieftain Dheer Deb in the 14th century. At its centre stands Jag Mandir, a small island palace raised in the 18th century for a Kota queen, with sandstone chhatris and arched pavilions. The lake is lovely at sunset, when the palace seems to float on the water.
+
+SOURCE 3
+Excel row title: Kishor Sagar Lake, Kota
+Eye-catching title: Serenity by the Water: Discovering Kota’s Historic Kishor Sagar Lake
+SEO-friendly hashtags: #KishorSagarLake #KotaDiaries #RajasthanLakes #JagMandir #IncredibleIndia
+Description: Situated in Kota, Rajasthan, Kishor Sagar Lake is a picturesque artificial water body dating back to 1346 AD, built by Prince Deva Datta. The primary attraction is the breathtaking Jag Mandir palace, a red-sandstone palace sitting gracefully in the middle of the lake. The architecture reflects classic Rajput style, creating stunning reflections and a tranquil cultural ambiance ideal for heritage lovers.
+
