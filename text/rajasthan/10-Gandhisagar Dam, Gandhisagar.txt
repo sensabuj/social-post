@@ -1,4 +1,35 @@
+Excel Row: Gandhisagar Dam, Gandhisagar
 Serial: 10
 Date: 04-Sep, (Day 4)
 Location: Gandhisagar Dam, Gandhisagar
 Geo-Location: 24.630000, 75.560000
+
+SOURCE 1
+Excel row title: Gandhisagar Dam, Gandhisagar
+Eye-catching title: Gandhi Sagar Dam: A Vast Reservoir in Mandsaur
+SEO-friendly hashtags: #GandhiSagarDam #Chambal #MadhyaPradeshTourism #Reservoir
+Description: Gandhi Sagar Dam spans the Chambal River in Madhya Pradesh and forms a large reservoir central
+to regional irrigation and power generation. Its expansive waters, surrounding hills and viewpoints make the dam
+an impressive example of post-independence infrastructure set within a scenic landscape.
+
+SOURCE 2
+excel row title: Gandhisagar Dam, Gandhisagar
+eye-catching title: Gandhi Sagar Dam: Madhya Pradesh's Mighty Chambal Giant
+seo friendly has-tags: #GandhiSagarDam #ChambalRiver #MandsaurTravel #MadhyaPradeshTourism
+#ReservoirViews #IndianEngineering
+description: Gandhi Sagar Dam lies on the Chambal in the Mandsaur district of Madhya Pradesh, near the
+Rajasthan border. Completed around 1960, it was the first of the major dams in the Chambal Valley
+Project and impounds one of India's larger reservoirs. The long masonry wall, spillway gates and power
+station are the main sights, and the expanse of the lake behind, dotted with islands, is the real draw.
+
+SOURCE 3
+excel row title: Gandhisagar Dam, Gandhisagar 
+eye-catching title: Horizon of Waters: The Grand Vistas of Gandhisagar Dam 
+seo friendly has-tags: #GandhisagarDam #MadhyaPradeshTourism #RiverValley 
+#EngineeringWonders #TravelDiaries 
+description: Constructed across the Chambal River in the Mandsaur district near Gandhisagar, 
+this massive masonry dam was one of the first major hydel projects in India. Important 
+attractions include the expansive reservoir serving as a sanctuary for wildlife, massive spillway 
+gates, and panoramic viewpoints. The structure represents mid-20th-century monumental 
+masonry engineering blended with vast natural landscapes. 
+excel row valus: 11

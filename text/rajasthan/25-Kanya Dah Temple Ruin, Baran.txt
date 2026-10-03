@@ -1,4 +1,36 @@
+Excel Row: Kanya Dah Temple Ruin, Baran
 Serial: 25
 Date: 07-Sep, (Day 7)
 Location: Kanya Dah Temple Ruin, Baran
 Geo-Location: 24.580000, 76.430000
+
+SOURCE 1
+Excel row title: Kanya Dah Temple Ruin, Baran
+Eye-catching title: Kanya Dah: A Sacred Ruin in Baran’s Countryside
+SEO-friendly hashtags: #KanyaDah #Baran #TempleRuins #RajasthanHeritage
+Description: Kanya Dah’s temple remains form part of Baran district’s scattered heritage of shrines and old
+settlements. The site’s weathered masonry and rural setting invite thoughtful exploration of the region’s
+architectural memory and continuing local traditions.
+
+SOURCE 2
+excel row title: Kanya Dah Temple Ruin, Baran
+eye-catching title: Kanya Dah: A Temple Ruin Beside the Waters
+seo friendly has-tags: #KanyaDah #BaranTempleRuins #HadotiHeritage #MedievalTemple
+#OffbeatRajasthan #ArchaeologyTrail
+description: Kanya Dah Temple Ruin lies near Baran in southeastern Rajasthan, in the Hadoti heritage
+belt. The remains of this temple show the stone-built architecture of the early medieval period, with carved
+pillars, door jambs and architectural fragments. Local lore connects the place with a sacred pool, but
+visitors should verify details with local guides, as the site is little documented.
+
+SOURCE 3
+excel row title: Kanya Dah Temple Ruin, Baran 
+eye-catching title: Tales of Yore: The Kanya Dah Temple Ruins in Baran 
+seo friendly has-tags: #KanyaDah #BaranRuins #AncientArchitecture #RajasthanHistory 
+#HeritageExploration 
+description: Located in the Baran district of Rajasthan, Kanya Dah Temple Ruin is an 
+archaeological site steeped in local legend and historical lore. Important attractions include 
+weathered temple foundations, finely carved stone blocks, and sculptural fragments reflecting 
+medieval craftsmanship. The site provides valuable insights into the architectural styles 
+
+prevalent in eastern Rajasthan centuries ago. 
+excel row valus: 26

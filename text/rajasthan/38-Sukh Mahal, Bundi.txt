@@ -1,4 +1,36 @@
+Excel Row: Sukh Mahal, Bundi
 Serial: 38
 Date: 09-Sep, (Day 9)
 Location: Sukh Mahal, Bundi
 Geo-Location: 25.440000, 75.640000
+
+SOURCE 1
+Excel row title: Sukh Mahal, Bundi
+Eye-catching title: Sukh Mahal: A Summer Retreat by the Lake
+SEO-friendly hashtags: #SukhMahal #Bundi #JaitSagar #RajasthanPalaces
+Description: Sukh Mahal is a graceful palace retreat beside Jait Sagar Lake in Bundi, associated with the leisure
+and courtly life of the former rulers. Its balconies, verandas and lakeside setting capture the quieter side of Rajput
+palace architecture.
+
+SOURCE 2
+excel row title: Sukh Mahal, Bundi
+eye-catching title: Sukh Mahal: The Summer Palace That Inspired Kipling
+seo friendly has-tags: #SukhMahal #BundiPalace #JaitSagar #RudyardKipling #RajputPalace
+#BundiHeritage
+description: Sukh Mahal is a small summer palace on the edge of Jait Sagar Lake in Bundi, Rajasthan,
+built by Rao Raja Vishnu Singh in the 19th century. Its whitewashed pavilions, arched doorways and
+lakeside terraces create an airy retreat. The palace is also associated with the author Rudyard Kipling,
+who stayed here and was inspired by the surroundings.
+
+SOURCE 3
+excel row title: Sukh Mahal, Bundi 
+eye-catching title: Palace by the Lake: The Charming Sukh Mahal of Bundi 
+seo friendly has-tags: #SukhMahal #BundiPalaces #Jait SagarLake #RudyardKipling 
+#RajasthanHeritage 
+description: Situated on the banks of Jait Sagar Lake in Bundi, Rajasthan, Sukh Mahal is a 
+charming two-story summer palace where historical figures like Rudyard Kipling once stayed. 
+Important attractions include a white-pillared pavilion roofed by traditional umbrella domes, 
+overlooking tranquil lotus-filled waters. The architecture reflects modest yet elegant Rajput 
+pleasure-palace design. 
+
+excel row valus: 39

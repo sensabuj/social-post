@@ -1,4 +1,37 @@
+Excel Row: Tribal Village, Bhimlat
 Serial: 34
 Date: 09-Sep, (Day 9)
 Location: Tribal Village, Bhimlat
 Geo-Location: 25.250000, 75.750000
+
+SOURCE 1
+Excel row title: Tribal Village, Bhimlat
+Eye-catching title: Village Encounters: Living Traditions near Bhimlat
+SEO-friendly hashtags: #Bhimlat #RuralRajasthan #HadotiCulture #ResponsibleTravel
+Description: The villages around Bhimlat offer a glimpse of everyday life in the countryside of the Hadoti region.
+Local homes, farming rhythms, crafts and community traditions add a human dimension to a journey otherwise
+marked by monuments and landscapes; visitors should approach respectfully and seek consent before
+photographing people.
+
+SOURCE 2
+excel row title: Tribal Village, Bhimlat
+eye-catching title: Bhimlat Tribal Village: Everyday Life in the Hadoti Hills
+seo friendly has-tags: #TribalVillage #VillageLife #BhimlatVillage #RuralRajasthan #CulturalTravel
+#ResponsibleTourism
+description: The Tribal Village near Bhimlat offers a look at rural and tribal life in the hills of Bundi district,
+Rajasthan. Visitors usually see mud-and-thatch or stone homes, colourful clothing, farming routines and
+handicrafts. It is a cultural rather than architectural stop, and respectful, permission-based interaction is
+key to a good visit.
+
+SOURCE 3
+excel row title: Tribal Village, Bhimlat 
+eye-catching title: Living Heritage: Exploring the Indigenous Tribal Village of Bhimlat 
+seo friendly has-tags: #TribalVillage #BhimlatCulture #IndigenousLife #RuralTourism 
+#RajasthanCulture 
+description: Nestled in the rural hinterlands near Bhimlat, Rajasthan, this traditional tribal village 
+offers an immersive cultural experience. Important attractions include authentic mud-and-thatch 
+
+dwellings, traditional farming practices, and interaction with indigenous communities preserving 
+centuries-old customs. The location highlights the vibrant folk traditions and simple agrarian 
+lifestyle of rural Rajasthan. 
+excel row valus: 35

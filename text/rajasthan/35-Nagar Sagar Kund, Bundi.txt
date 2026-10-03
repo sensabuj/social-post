@@ -1,4 +1,35 @@
+Excel Row: Nagar Sagar Kund, Bundi
 Serial: 35
 Date: 09-Sep, (Day 9)
 Location: Nagar Sagar Kund, Bundi
 Geo-Location: 25.440000, 75.640000
+
+SOURCE 1
+Excel row title: Nagar Sagar Kund, Bundi
+Eye-catching title: Nagar Sagar Kund: Bundi’s Twin Stepwell Landmark
+SEO-friendly hashtags: #NagarSagarKund #Bundi #Stepwells #RajasthanArchitecture
+Description: Nagar Sagar Kund is a pair of historic stepwells in Bundi, a town renowned for its water architecture.
+Their stepped geometry reflects the ingenuity of traditional water harvesting and the central role of wells in the
+social and architectural life of Rajasthan.
+
+SOURCE 2
+excel row title: Nagar Sagar Kund, Bundi
+eye-catching title: Nagar Sagar Kund: Bundi's Carved Stepwell Twin
+seo friendly has-tags: #NagarSagarKund #BundiStepwell #Baori #StepwellArchitecture #BundiTourism
+#RajasthanWater
+description: Nagar Sagar Kund is a historic stepped water tank in Bundi, Rajasthan, standing close to
+Raniji ki Baori. Bundi is known as the 'city of stepwells', and this kund is among its finest examples, with
+symmetrical flights of steps, arched niches and ornate gateways. It was built to store water and provide a
+cool communal space, with beauty added by skilled stonework.
+
+SOURCE 3
+excel row title: Nagar Sagar Kund, Bundi 
+eye-catching title: Symmetry in Stone: The Twin Stepwells of Nagar Sagar Kund 
+seo friendly has-tags: #NagarSagarKund #BundiStepwells #StepwellsOfIndia 
+#WaterArchitecture #HeritageSites 
+description: Located in the heart of Bundi, Rajasthan, Nagar Sagar Kund consists of identical 
+twin stepwells built with remarkable architectural symmetry. Important attractions include deep 
+rectangular stone structures adorned with multi-tiered steps leading down to water basins, 
+flanked by small shrines. The architecture reflects the brilliant water conservation and masonry 
+techniques of historic Rajput civil engineering. 
+excel row valus: 36

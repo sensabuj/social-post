@@ -1,4 +1,35 @@
+Excel Row: GaperNath, Kota
 Serial: 5
 Date: 03-Sep, (Day 3)
 Location: GaperNath, Kota
 Geo-Location: 25.190000, 75.950000
+
+SOURCE 1
+Excel row title: GaperNath, Kota
+Eye-catching title: Geparnath: A Sacred Gorge in the Aravalli Landscape
+SEO-friendly hashtags: #Geparnath #Kota #ShivaTemple #RajasthanNature
+Description: Geparnath, near Kota, is known for its Shiva shrine set within a dramatic rocky gorge. A stairway
+descends toward the temple and seasonal cascade, where rugged geology, greenery and religious devotion
+combine to create a memorable pilgrimage landscape.
+
+SOURCE 2
+excel row title: GaperNath, Kota
+eye-catching title: Gepernath: A Shiva Shrine Hidden in a Chambal Gorge
+seo friendly has-tags: #Gepernath #GaipernathMahadev #KotaDayTrip #ShivaTemple #HadotiNature
+#RajasthanHiddenGems
+description: Gepernath (also written Gaipernath) is a Shiva temple tucked into a deep gorge a short drive
+from Kota, Rajasthan. Worshippers descend a flight of steps to a cave-like sanctum beneath rocky cliffs,
+with a stream that turns into a waterfall in the monsoon. The setting, a mix of rock, forest and running
+water, is the main architectural drama here, and it feels like a pilgrimage into the earth.
+
+SOURCE 3
+excel row title: GaperNath, Kota 
+eye-catching title: Nature’s Hidden Canyon: The Breathtaking GaperNath Waterfall & Temple 
+seo friendly has-tags: #GaperNath #KotaWaterfalls #HiddenGemsRajasthan #NatureTravel 
+#ChambalValley 
+description: Nestled in a deep gorge amidst the forested ravines near Kota, Rajasthan, 
+GaperNath is a sacred and scenic sanctuary. Important attractions include an ancient shrine 
+dedicated to Lord Shiva situated deep within the canyon and a dramatic seasonal waterfall 
+cascading over rocky cliffs. The site’s architectural highlights include rock-cut shrines and 
+stepped pathways descending through rugged terrain into the lush valley. 
+excel row valus: 6

@@ -1,4 +1,35 @@
+Excel Row: Sherghare Fort, Shergarh
 Serial: 24
 Date: 07-Sep, (Day 7)
 Location: Sherghare Fort, Shergarh
 Geo-Location: 24.550000, 76.420000
+
+SOURCE 1
+Excel row title: Sherghare Fort, Shergarh
+Eye-catching title: Shergarh Fort: A Historic Stronghold above the Parvan
+SEO-friendly hashtags: #ShergarhFort #Baran #RajasthanForts #HiddenHeritage
+Description: Shergarh Fort near Baran occupies a strategic landscape associated with the Parvan River and the
+historic routes of southeastern Rajasthan. Its surviving fortifications and ruined structures evoke successive layers
+of regional power, defence and settlement.
+
+SOURCE 2
+excel row title: Sherghare Fort, Shergarh
+eye-catching title: Shergarh Fort: Sher Shah Suri's Riverside Stronghold
+seo friendly has-tags: #ShergarhFort #SherShahSuri #BaranForts #ParvanRiver #HadotiHistory
+#RajasthanForts
+description: Shergarh Fort stands in Shergarh village in Baran district, Rajasthan, on the banks of the
+Parvan river. The fort is older than its current name and was reportedly rebuilt and renamed by Sher Shah
+Suri in the 16th century. The surviving walls, gateways and ruined halls rise above the river, and the site
+also has links to Buddhist and Hindu heritage in the area.
+
+SOURCE 3
+excel row title: Sherghare Fort, Shergarh 
+eye-catching title: Fortress of the Kings: Exploring Shergarh Fort 
+seo friendly has-tags: #ShergarhFort #BaranForts #RajasthanHistory #MedievalFortress 
+#HiddenHeritage 
+description: Situated on the banks of the Parwan River in Shergarh, Rajasthan, Shergarh Fort is 
+a historic stronghold bearing architectural influences from various ruling dynasties, including 
+Sher Shah Suri. Important attractions include ancient gateways, bastions, ruined palaces, and 
+secret passages overlooking the river valley. The architecture is characterized by sturdy stone 
+ramparts designed for strategic military defense. 
+excel row valus: 25

@@ -1,4 +1,38 @@
+Excel Row: Shree Dharmrajeshwara Temple, Chandwasa
 Serial: 12
 Date: 04-Sep, (Day 4)
 Location: Shree Dharmrajeshwara Temple, Chandwasa
 Geo-Location: 24.540000, 75.710000
+
+SOURCE 1
+Excel row title: Shree Dharmrajeshwara Temple, Chandwasa
+Eye-catching title: Dharmrajeshwara: A Rock-Cut Shrine of the Malwa Region
+SEO-friendly hashtags: #DharmrajeshwaraTemple #Chandwasa #RockCutTemple #MalwaHeritage
+Description: Dharmrajeshwara Temple near Chandwasa is a remarkable rock-cut temple complex associated with
+the early medieval religious landscape of the Malwa region. Carved into living rock, its sanctum and sculptural
+details reveal the technical skill and devotional imagination of its builders.
+
+SOURCE 2
+excel row title: Shree Dharmrajeshwara Temple, Chandwasa
+eye-catching title: Dharmrajeshwar: The Rock-Cut Temple Carved from One Hill
+seo friendly has-tags: #Dharmrajeshwar #Chandwasa #RockCutTemple #MandsaurHeritage
+#ASIMonument #AncientIndianArchitecture
+description: Shree Dharmrajeshwara Temple is a rock-cut temple complex at Chandwasa in Mandsaur
+district, Madhya Pradesh. Carved out of a single hillside, it is often compared in concept to the better
+known cave temples of Maharashtra, with a main shrine, pillared mandapa and related cave cells, all hewn
+from stone. Experts place it in the early medieval period, and the monolithic carving makes it a remarkable
+and little-visited site.
+
+SOURCE 3
+excel row title: Shree Dharmrajeshwara Temple, Chandwasa 
+eye-catching title: Rock-Cut Wonder: The Mystical Shree Dharmrajeshwara Temple 
+seo friendly has-tags: #DharmrajeshwaraTemple #Chandwasa #MonolithicTemple 
+#AncientArchitecture #RockCutTemples 
+description: Located in Chandwasa, Madhya Pradesh, the Shree Dharmrajeshwara Temple is 
+an awe-inspiring monolithic rock-cut temple carved entirely out of a single massive stone block, 
+echoing the style of Ellora. Important attractions include underground sanctums, intricate stone 
+pillars, and intricate carvings of Hindu and Buddhist deities dating back to the 8th century. The 
+architectural style represents a rare and brilliant specimen of monolithic rock-cut architecture in 
+
+central India. 
+excel row valus: 13
