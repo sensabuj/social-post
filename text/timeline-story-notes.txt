@@ -1,0 +1,1 @@
+Generated from timeline-post.csv using promts/2.story-creation-from-excel.txt. Section-wise publication-ready entries are prepared for all 40 itinerary destinations, followed by a chronological travel narrative. Supporting factual references were checked against Rajasthan Tourism where available.
