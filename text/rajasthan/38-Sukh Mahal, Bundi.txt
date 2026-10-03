@@ -1,0 +1,4 @@
+Serial: 38
+Date: 09-Sep, (Day 9)
+Location: Sukh Mahal, Bundi
+Geo-Location: 25.440000, 75.640000
