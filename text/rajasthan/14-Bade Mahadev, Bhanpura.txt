@@ -1,0 +1,4 @@
+Serial: 14
+Date: 05-Sep, (Day 5)
+Location: Bade Mahadev, Bhanpura
+Geo-Location: 24.550000, 75.690000
