@@ -1,0 +1,4 @@
+Serial: 31
+Date: 08-Sep, (Day 8)
+Location: Chauth Mata Mandir, Bundi
+Geo-Location: 25.430000, 75.640000
