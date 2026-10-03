@@ -1,4 +1,0 @@
-Serial: 34
-Date: 09-Sep, (Day 9)
-Location: Tribal Village, Bhimlat
-Geo-Location: 25.250000, 75.750000

@@ -1,4 +1,0 @@
-Serial: 30
-Date: 08-Sep, (Day 8)
-Location: Ramghar Fort, Ramgarh
-Geo-Location: 25.080000, 76.480000

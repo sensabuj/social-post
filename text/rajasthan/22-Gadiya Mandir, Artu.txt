@@ -1,4 +1,0 @@
-Serial: 22
-Date: 06-Sep, (Day 6)
-Location: Gadiya Mandir, Artu
-Geo-Location: 25.000000, 76.060000

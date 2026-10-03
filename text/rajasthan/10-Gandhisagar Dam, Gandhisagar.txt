@@ -1,4 +1,0 @@
-Serial: 10
-Date: 04-Sep, (Day 4)
-Location: Gandhisagar Dam, Gandhisagar
-Geo-Location: 24.630000, 75.560000

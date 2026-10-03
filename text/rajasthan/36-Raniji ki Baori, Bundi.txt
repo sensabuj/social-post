@@ -1,4 +1,0 @@
-Serial: 36
-Date: 09-Sep, (Day 9)
-Location: Raniji ki Baori, Bundi
-Geo-Location: 25.440000, 75.640000

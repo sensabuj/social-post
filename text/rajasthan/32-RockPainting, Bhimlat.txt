@@ -1,4 +1,0 @@
-Serial: 32
-Date: 08-Sep, (Day 8)
-Location: RockPainting, Bhimlat
-Geo-Location: 25.100000, 75.500000

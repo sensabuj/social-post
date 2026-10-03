@@ -1,4 +1,0 @@
-Serial: 37
-Date: 09-Sep, (Day 9)
-Location: 84 Pillared Cenotaph, Bundi
-Geo-Location: 25.400000, 75.570000

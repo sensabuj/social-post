@@ -1,4 +1,0 @@
-Serial: 27
-Date: 08-Sep, (Day 8)
-Location: Bhand Devara Temple, Ramgarh
-Geo-Location: 25.080000, 76.480000

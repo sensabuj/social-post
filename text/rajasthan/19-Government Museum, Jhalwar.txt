@@ -1,4 +1,0 @@
-Serial: 19
-Date: 06-Sep, (Day 6)
-Location: Government Museum, Jhalwar
-Geo-Location: 24.600000, 76.170000

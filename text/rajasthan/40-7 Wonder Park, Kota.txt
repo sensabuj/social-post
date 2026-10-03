@@ -1,4 +1,0 @@
-Serial: 40
-Date: 09-Sep, (Day 9)
-Location: 7 Wonder Park, Kota
-Geo-Location: 25.160000, 75.850000

@@ -1,4 +1,0 @@
-Serial: 35
-Date: 09-Sep, (Day 9)
-Location: Nagar Sagar Kund, Bundi
-Geo-Location: 25.440000, 75.640000

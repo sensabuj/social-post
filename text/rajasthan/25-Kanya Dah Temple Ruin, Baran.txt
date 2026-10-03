@@ -1,4 +1,0 @@
-Serial: 25
-Date: 07-Sep, (Day 7)
-Location: Kanya Dah Temple Ruin, Baran
-Geo-Location: 24.580000, 76.430000

@@ -1,4 +1,0 @@
-Serial: 8
-Date: 04-Sep, (Day 4)
-Location: Chuliya Waterfall, Gandhisagar
-Geo-Location: 24.840000, 74.950000

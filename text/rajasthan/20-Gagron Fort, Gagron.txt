@@ -1,4 +1,0 @@
-Serial: 20
-Date: 06-Sep, (Day 6)
-Location: Gagron Fort, Gagron
-Geo-Location: 24.650000, 76.160000

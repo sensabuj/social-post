@@ -1,4 +1,0 @@
-Serial: 24
-Date: 07-Sep, (Day 7)
-Location: Sherghare Fort, Shergarh
-Geo-Location: 24.550000, 76.420000

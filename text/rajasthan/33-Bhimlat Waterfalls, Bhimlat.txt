@@ -1,4 +1,0 @@
-Serial: 33
-Date: 08-Sep, (Day 8)
-Location: Bhimlat Waterfalls, Bhimlat
-Geo-Location: 25.100000, 75.650000
