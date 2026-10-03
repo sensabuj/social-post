@@ -1,0 +1,4 @@
+Serial: 6
+Date: 03-Sep, (Day 3)
+Location: Group of Barolia Temples, Rawatbhata
+Geo-Location: 24.820000, 75.590000
