@@ -1,0 +1,6 @@
+1. All destinations listed in Place and Location column in the spreadsheet. 
+2. A short historical and cultural introduction of the city mention in Place coumn.
+3. A short historical and cultural introduction to each place with eye-catching title and seo friendly has-tags exclude Station,Traveling,Hotel value under genre column. 
+4. Important attractions and architectural highlights. 
+5. A chronological travel narrative based on your itinerary. Engaging, publication-ready descriptions suitable for your kuhook travel blog.
+6. save the response save into safarate pdf files 
