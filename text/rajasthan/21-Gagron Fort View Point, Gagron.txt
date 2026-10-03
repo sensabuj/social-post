@@ -1,0 +1,4 @@
+Serial: 21
+Date: 06-Sep, (Day 6)
+Location: Gagron Fort View Point, Gagron
+Geo-Location: 24.650000, 76.160000
