@@ -1,4 +1,0 @@
-Serial: 2
-Date: 02-Sep,(Wed) - Day 2
-Location: Delhi Rail Station, New Delhi
-Genre: Station

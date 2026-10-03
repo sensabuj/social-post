@@ -1,4 +1,0 @@
-Serial: 3
-Date: 02-Sep,(Wed) - Day 2
-Location: Kota Rail Staion, Kota
-Genre: Station
