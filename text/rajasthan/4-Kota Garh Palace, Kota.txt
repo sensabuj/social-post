@@ -1,0 +1,4 @@
+Serial: 4
+Date: 03-Sep, (Day 3)
+Location: Kota Garh Palace, Kota
+Geo-Location: 25.180000, 75.840000
