@@ -1,1 +1,1 @@
-read post-timeline.csv and create text files for each rows with this name format {0Serial}-Location.txt then add text from 3 pdf. extact text from all pdf in respect 'excel row title' text and merge and add text/rajasthan forder then add and commit
+read timeline-post.csv and create text files for each rows with this name format {0Serial}-Location.txt  then add text from all pdf sources. extact text from all pdf sources in respect 'excel row title'  text and merge  and @github add text/rajasthan forder then add and commit 
