@@ -1,0 +1,4 @@
+Serial: 16
+Date: 05-Sep, (Day 5)
+Location: Kakuni Temple Complex, Kakuni
+Geo-Location: 24.740000, 76.180000
