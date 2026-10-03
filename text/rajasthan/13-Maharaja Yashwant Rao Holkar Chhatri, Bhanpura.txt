@@ -1,0 +1,4 @@
+Serial: 13
+Date: 05-Sep, (Day 5)
+Location: Maharaja Yashwant Rao Holkar Chhatri, Bhanpura
+Geo-Location: 24.550000, 75.650000
