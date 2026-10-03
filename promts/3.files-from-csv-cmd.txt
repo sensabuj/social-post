@@ -1,1 +1,3 @@
-read timeline-post.csv and create text files for each rows with this name format {0Serial}-Location.txt  then add text from all pdf sources. extact text from all pdf sources in respect 'excel row title'  text and merge  and @github add text/rajasthan forder then add and commit 
+read timeline-post.csv and create text files for each rows with this name format {0Serial}-Location.txt 
+
+@GitHub read all pdf sources and add text from all pdf sources. extact text from all pdf sources in respect 'excel row title' text and merge and then update the files with merged text if all files not commited then zip all files and download
