@@ -1,0 +1,4 @@
+Serial: 26
+Date: 07-Sep, (Day 7)
+Location: Mini Khajuraho Temple, Bansthuni
+Geo-Location: 24.450000, 76.620000
