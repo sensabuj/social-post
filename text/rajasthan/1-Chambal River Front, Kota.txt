@@ -1,0 +1,4 @@
+Serial: 1
+Date: 02-Sep, (Day 2)
+Location: Chambal River Front, Kota
+Geo-Location: 25.170000, 75.860000
