@@ -1,0 +1,4 @@
+Serial: 7
+Date: 03-Sep, (Day 3)
+Location: Rana Pratap Sagar Dam, Rawatbhata
+Geo-Location: 24.940000, 75.560000
