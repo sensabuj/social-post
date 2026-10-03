@@ -1,0 +1,4 @@
+Serial: 39
+Date: 09-Sep, (Day 9)
+Location: Taragarh Fort, Bundi
+Geo-Location: 25.450000, 75.630000
