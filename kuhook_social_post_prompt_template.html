@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>kuhook Social Post Prompt Template</title>
+  <style>
+    :root {
+      --ink: #2b211c;
+      --muted: #75665d;
+      --paper: #fffaf2;
+      --card: #ffffff;
+      --accent: #8b321f;
+      --accent-soft: #f5e6d9;
+      --line: #e7d8ca;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 24px;
+      background: var(--paper);
+      color: var(--ink);
+      font: 16px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif;
+    }
+    main { max-width: 900px; margin: 0 auto; }
+    header { margin-bottom: 24px; }
+    .eyebrow {
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: .12em;
+      font-size: .78rem;
+      font-weight: 800;
+    }
+    h1 { margin: 6px 0 8px; line-height: 1.12; font-size: clamp(2rem, 5vw, 3rem); }
+    header p { margin: 0; color: var(--muted); }
+    .section {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 20px;
+      margin: 16px 0;
+      box-shadow: 0 5px 18px rgba(55, 35, 20, .05);
+    }
+    .section-heading {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    .number {
+      flex: 0 0 38px;
+      height: 38px;
+      display: grid;
+      place-items: center;
+      border-radius: 50%;
+      background: var(--accent-soft);
+      color: var(--accent);
+      font-weight: 800;
+    }
+    h2 { margin: 0; font-size: 1.25rem; }
+    .hint { color: var(--muted); font-size: .92rem; margin: 3px 0 0; }
+    label { display: block; font-weight: 700; margin: 14px 0 6px; }
+    textarea, input {
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 12px;
+      color: var(--ink);
+      background: #fffdfa;
+      font: inherit;
+    }
+    textarea { min-height: 112px; resize: vertical; }
+    .prompt { min-height: 145px; }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 12px; }
+    button {
+      border: 0;
+      border-radius: 10px;
+      padding: 10px 14px;
+      background: var(--accent);
+      color: white;
+      font: inherit;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    button.secondary { background: #eee4dc; color: var(--ink); }
+    button:hover { filter: brightness(.96); }
+    .output { background: #fff8ef; }
+    footer { color: var(--muted); font-size: .9rem; margin: 24px 0 8px; }
+    @media (max-width: 560px) {
+      body { padding: 14px; }
+      .section { padding: 15px; }
+    }
+  </style>
+</head>
+<body>
+<main>
+  <header>
+    <div class="eyebrow">kuhook · Travel · Explore · Heritage</div>
+    <h1>Social Post Prompt Template</h1>
+    <p>Five separate prompt sections for creating a polished, engaging post. Edit each prompt, then copy it for your AI workflow.</p>
+  </header>
+
+  <section class="section">
+    <div class="section-heading">
+      <div class="number">1</div>
+      <div>
+        <h2>Eye-Catching Title</h2>
+        <p class="hint">Create a strong hook that makes people want to read or watch.</p>
+      </div>
+    </div>
+    <label for="titlePrompt">Prompt</label>
+    <textarea class="prompt" id="titlePrompt">Write 5 eye-catching, curiosity-driven titles for a kuhook travel and heritage post based on the supplied image or topic. Keep each title concise, accurate, and suitable for Instagram/Facebook. Use an engaging mix of Bengali and English where appropriate. Avoid misleading clickbait. Return the strongest title first.</textarea>
+    <div class="actions"><button onclick="copyField('titlePrompt')">Copy title prompt</button></div>
+  </section>
+
+  <section class="section">
+    <div class="section-heading">
+      <div class="number">2</div>
+      <div>
+        <h2>Short Description</h2>
+        <p class="hint">Write a compact caption with useful context and an inviting tone.</p>
+      </div>
+    </div>
+    <label for="descriptionPrompt">Prompt</label>
+    <textarea class="prompt" id="descriptionPrompt">Write a short, engaging social-media description for kuhook based on the supplied image or topic. Explain what viewers are seeing and why it matters, using only details supported by the source. Keep it easy to scan, warm, and suitable for Instagram/Facebook. Use Bengali and English naturally when appropriate, and avoid repeating the title.</textarea>
+    <div class="actions"><button onclick="copyField('descriptionPrompt')">Copy description prompt</button></div>
+  </section>
+
+  <section class="section">
+    <div class="section-heading">
+      <div class="number">3</div>
+      <div>
+        <h2>Enhance Image</h2>
+        <p class="hint">Improve clarity while preserving the original subject and historical details.</p>
+      </div>
+    </div>
+    <label for="imagePrompt">Prompt</label>
+    <textarea class="prompt" id="imagePrompt">Enhance the supplied image for a high-quality kuhook travel or heritage post. Improve sharpness, fine detail, exposure, contrast, and natural colour balance while reducing noise and haze. Preserve the original subject, composition, inscriptions, facial features, and historical/artistic details. Do not add, remove, invent, or reshape objects. Keep textures realistic and avoid excessive saturation or artificial HDR. If suitable, add a small, tasteful “kuhook” watermark in the bottom-right corner without covering important content.</textarea>
+    <div class="actions"><button onclick="copyField('imagePrompt')">Copy image prompt</button></div>
+  </section>
+
+  <section class="section">
+    <div class="section-heading">
+      <div class="number">4</div>
+      <div>
+        <h2>Ask for Support</h2>
+        <p class="hint">Encourage follows, comments, saves, and shares without sounding pushy.</p>
+      </div>
+    </div>
+    <label for="supportPrompt">Prompt</label>
+    <textarea class="prompt" id="supportPrompt">Write a friendly call-to-action for kuhook that encourages people who enjoy travel, Bengal’s heritage, temples, architecture, culture, and history to follow the page. Invite them to like, comment, save, and share the post. Make it welcoming and natural, with Bengali-English bilingual wording where appropriate. Keep it brief and do not guilt or pressure the audience. Use the handle @kuhook.</textarea>
+    <div class="actions"><button onclick="copyField('supportPrompt')">Copy support prompt</button></div>
+  </section>
+
+  <section class="section">
+    <div class="section-heading">
+      <div class="number">5</div>
+      <div>
+        <h2>Hashtags</h2>
+        <p class="hint">Generate relevant tags for discovery, location, culture, and branding.</p>
+      </div>
+    </div>
+    <label for="hashtagPrompt">Prompt</label>
+    <textarea class="prompt" id="hashtagPrompt">Generate 10–15 relevant hashtags for this kuhook post. Mix specific place/topic tags, travel and heritage tags, culture tags, and branded tags such as #kuhook and #ExploreWithKuhook. Use only tags that fit the supplied content; avoid unrelated or overly generic tags. Present them on one line, ready to copy.</textarea>
+    <div class="actions"><button onclick="copyField('hashtagPrompt')">Copy hashtag prompt</button></div>
+  </section>
+
+  <section class="section output">
+    <div class="section-heading">
+      <div class="number">✓</div>
+      <div>
+        <h2>Combine Your Prompts</h2>
+        <p class="hint">Copy all five prompts together when you want one complete content-generation request.</p>
+      </div>
+    </div>
+    <textarea id="allPrompts" readonly aria-label="All five prompts"></textarea>
+    <div class="actions">
+      <button onclick="copyAll()">Copy all prompts</button>
+      <button class="secondary" onclick="resetPrompts()">Reset prompts</button>
+    </div>
+  </section>
+
+  <footer>Template for kuhook · Travel | Explore | Heritage</footer>
+</main>
+<script>
+  const promptIds = ['titlePrompt', 'descriptionPrompt', 'imagePrompt', 'supportPrompt', 'hashtagPrompt'];
+
+  function buildAll() {
+    const headings = ['1. Eye-Catching Title', '2. Short Description', '3. Enhance Image', '4. Ask for Support', '5. Hashtags'];
+    document.getElementById('allPrompts').value = promptIds.map((id, i) =>
+      headings[i] + '\\n' + document.getElementById(id).value.trim()
+    ).join('\\n\\n');
+  }
+
+  async function copyText(text, button) {
+    try {
+      await navigator.clipboard.writeText(text);
+      const original = button.textContent;
+      button.textContent = 'Copied!';
+      setTimeout(() => button.textContent = original, 1400);
+    } catch (err) {
+      const temp = document.createElement('textarea');
+      temp.value = text;
+      document.body.appendChild(temp);
+      temp.select();
+      document.execCommand('copy');
+      temp.remove();
+      const original = button.textContent;
+      button.textContent = 'Copied!';
+      setTimeout(() => button.textContent = original, 1400);
+    }
+  }
+
+  function copyField(id) {
+    copyText(document.getElementById(id).value, event.currentTarget);
+  }
+
+  function copyAll() {
+    buildAll();
+    copyText(document.getElementById('allPrompts').value, event.currentTarget);
+  }
+
+  function resetPrompts() {
+    location.reload();
+  }
+
+  promptIds.forEach(id => document.getElementById(id).addEventListener('input', buildAll));
+  buildAll();
+</script>
+</body>
+</html>
